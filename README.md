@@ -1,3 +1,7 @@
+Nom :
+Prénom :
+URL Netlify :
+
 État initial : le bouton 🍔 ne fait rien, et la <nav> s'affiche en permanence sous le bouton (en double). On cherche à mettre en place un menu avec `popover`.
 
 Pour chaque étape réalisée : faire un commit reprenant le titre.
@@ -198,3 +202,7 @@ Recherchez sur le site https://developer.mozilla.org/fr/ les pages de documentat
 
 - `popover` : https://developer.mozilla.org/fr/docs/Web/HTML/Reference/Global_attributes/popover
 - ...
+
+# Fin
+
+N'oubliez pas de Push et publier sur Netlify (URL (publique) du site à mettre en haut).
